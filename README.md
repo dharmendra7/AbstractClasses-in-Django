@@ -69,3 +69,6 @@ docker-compose up -d
 ```
 
 <br />
+
+![image](https://github.com/dharmendra7/AbstractClasses-in-Django/assets/85740691/371267ad-0095-4c8f-b01e-9e0c59444db8)
+
